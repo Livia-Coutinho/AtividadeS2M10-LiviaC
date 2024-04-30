@@ -22,3 +22,10 @@ Com o Backstage, as equipes podem criar seus próprios aplicativos personalizado
 - Considerando feita a instalação, o aplicativo Backstage pode ser iniciado (comando yarn dev).
 - O frontend e o backend são executados como processos separados, e quando o frontend for compilado com sucesso, o navegador vai automaticamente abrir a interface do Backstage em http://localhost:3000.
 
+**3. Construção de imagem Docker:**
+- COnstrução da imagem Docker para o Backstage, que vai poder contar com dois métodos de construção: uma abordagem de build no host e uma build de vários estágios.
+- Ambos os métodos vão envolver a instalação de dependências, a compilação do código e a configuração do ambiente para servir o aplicativo Backstage.
+- A construção da imagem Docker pode ser feita em um único contêiner ou em vários estágios (essa escolha vai variar de acordo as necessidades do usuário).
+
+
+
