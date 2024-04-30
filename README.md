@@ -16,3 +16,9 @@ Com o Backstage, as equipes podem criar seus próprios aplicativos personalizado
 - Como configurar um ambiente de desenvolvimento local do Backstage usando o comando npx @backstage/create-app@latest.
 - Os pré-requisitos incluem sistemas operacionais baseados em Linux, comandos de terminal e a instalação de ferramentas como Node.js, Yarn, Docker e Git, que eu já tinha.
 - O Backstage é instalado em um diretório local com uma estrutura de pasta específica, que vai conter arquivos de configuração principais, informações de catálogo e diretórios tanto para front quanto para back.
+
+**2. Execução do app Backstage:**
+
+- Considerando feita a instalação, o aplicativo Backstage pode ser iniciado (comando yarn dev).
+- O frontend e o backend são executados como processos separados, e quando o frontend for compilado com sucesso, o navegador vai automaticamente abrir a interface do Backstage em http://localhost:3000.
+
