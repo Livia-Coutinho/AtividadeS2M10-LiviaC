@@ -30,9 +30,6 @@ Com o Backstage, as equipes podem criar seus próprios aplicativos personalizado
 ## Próximos passos:
 O tutorial fornece informações sobre os próximos passos, dependendo do papel do usuário, seja administrador ou desenvolvedor. Para administradores, os próximos passos incluem explorar a seção de administração, enquanto para os desenvolvedores, é sugerido explorar a seção de desenvolvimento.
 
-## Conclusão:
-O Backstage oferece uma abordagem abrangente e organizada para gerenciar projetos de desenvolvimento de software. Com sua arquitetura modular e personalizável, é uma ferramenta poderosa para equipes de desenvolvimento. Este relatório resume os principais conceitos e procedimentos aprendidos durante o tutorial de instalação e configuração do Backstage.
-
 # Passo a passo
 
 ### Instalando o backstage:
